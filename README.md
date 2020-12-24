@@ -37,5 +37,5 @@ console.log(['🥚', '🐣', '🐥', '🐔'].sort())
 
 >>> [ '🐔', '🐣', '🐥', '🥚' ]
 ```
-
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=A1996KASH.A1996KASH)
 ⭐️ From [Akash Sengar](https://github.com/A1996KASH)
