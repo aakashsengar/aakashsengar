@@ -38,4 +38,4 @@ console.log(['🥚', '🐣', '🐥', '🐔'].sort())
 >>> [ '🐔', '🐣', '🐥', '🥚' ]
 ```
 
-⭐️ From [AdamAlston](https://github.com/adamalston)
+⭐️ From [Akash Sengar](https://github.com/A1996KASH)
