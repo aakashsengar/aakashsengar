@@ -1,7 +1,7 @@
 
 ##### Hi, I'm Akash:
 
-- 🎓Recent computer science graduate from VIT- Vellore
+- 🎓 Computer science graduate from VIT- Vellore
 - :mailbox: You can reach me with the links below
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akashsengar96@gmail.com)
