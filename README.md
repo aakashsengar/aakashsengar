@@ -27,15 +27,15 @@
 ![TCP/IP](https://img.shields.io/badge/-TCP/IP-222222?style=flat&logo=cisco&logoColor=white)
 ![XCode](https://img.shields.io/badge/-XCode-222222?style=flat&logo=XCode&logoColor=1575F9)
 
-
-##### Fun fact: I once solved the world's oldest question with a single line of JavaScript
-<!-- wi*quL3fcV -->
-
-```javascript
-// Which came first: the chicken or the egg?
-console.log(['🥚', '🐣', '🐥', '🐔'].sort())
-
->>> [ '🐔', '🐣', '🐥', '🥚' ]
-```
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=A1996KASH.A1996KASH)
-⭐️ From [Akash Sengar](https://github.com/A1996KASH)
+
+## :trophy: My Github Stats:
+
+<div>
+<a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=A1996KASH&count_private=true&show_icons=true&theme=tokyonight">
+  <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=A1996KASH&count_private=true&show_icons=true&theme=tokyonight" />
+</a>
+<a href="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=A1996KASH&hide=php&theme=tokyonight">
+  <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=A1996KASH&hide=php&theme=tokyonight" />
+</a>
+</div>
