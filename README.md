@@ -7,6 +7,7 @@
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akashsengar96@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akashsengar/)
 [![codeandlearn.in](https://img.shields.io/badge/-CODEANDLEARN.IN-000000?style=for-the-badge&logo=react&logoColor=white)](http://codeandlearn.in/)
+[![YouTube](https://img.shields.io/badge/-YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/channel/UCk9JLSJrC5W1XmJwaxcxKVQ)
 
 ##### Languages I use
 
