@@ -30,13 +30,3 @@
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=A1996KASH.A1996KASH)
 
-## :trophy: My Github Stats:
-
-<div>
-<a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=A1996KASH&count_private=true&show_icons=true&theme=tokyonight">
-  <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=A1996KASH&count_private=true&show_icons=true&theme=tokyonight" />
-</a>
-<a href="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=A1996KASH&hide=php&theme=tokyonight">
-  <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=A1996KASH&hide=php&theme=tokyonight" />
-</a>
-</div>
