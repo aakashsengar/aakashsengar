@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=2500&pause=800&color=6366F1&center=true&vCenter=true&multiline=true&repeat=false&width=700&height=110&lines=Akash+Sengar;Senior+Engineer+%7C+AI+Infrastructure+Builder" alt="Akash Sengar" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=40&duration=2000&pause=99999&color=6366F1&center=true&vCenter=true&repeat=false&width=500&lines=Akash+Sengar" alt="Akash Sengar" />
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=17&duration=2000&pause=99999&color=8B92FF&center=true&vCenter=true&repeat=false&width=680&lines=Senior+Engineer+%7C+AI+Infrastructure+Builder" alt="Senior Engineer | AI Infrastructure Builder" />
 
 <br/>
 
