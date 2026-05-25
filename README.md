@@ -14,7 +14,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-akashsengar-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akashsengar/)
 [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCk9JLSJrC5W1XmJwaxcxKVQ)
-[![RadarOS](https://img.shields.io/badge/RadarOS-docs.xhipai.com-6366f1?style=flat-square&logoColor=white)](https://docs.xhipai.com)
+[![Agentium](https://img.shields.io/badge/Agentium-docs.agentium.in-6366f1?style=flat-square&logoColor=white)](https://docs.agentium.in)
 [![agno](https://img.shields.io/badge/Contributor-agno--agi%2Fagno-4B286D?style=flat-square&logo=github&logoColor=white)](https://github.com/agno-agi/agno)
 [![Profile Views](https://komarev.com/ghpvc/?username=aakashsengar&color=6366f1&style=flat-square&label=PROFILE+VIEWS)](https://github.com/aakashsengar)
 
@@ -29,7 +29,7 @@ const engineer = {
   name:         "Akash Sengar",
   role:         "Senior Software Engineer",
   focus:        ["AI Agent Systems", "TypeScript", "Open Source Infrastructure"],
-  building:     "RadarOS — TypeScript-native AI agent orchestration framework",
+  building:     "Agentium — TypeScript-native AI agent orchestration framework",
   contributing: "agno-agi/agno",
   teaching:     "YouTube — agent architecture, OSS deep dives, system design",
   education:    "Computer Science · VIT Vellore",
@@ -41,13 +41,13 @@ const engineer = {
 
 ---
 
-## 🚀 Flagship Project — [RadarOS](https://docs.xhipai.com)
+## 🚀 Flagship Project — [Agentium](https://www.agentium.in)
 
 > A TypeScript-native, zero-dependency AI agent orchestration framework for Node.js.  
 > Model-agnostic · Multi-agent teams · Voice & Browser agents · Production-ready.
 
 ```typescript
-import { Agent, Team, Workflow } from '@radaros/core';
+import { Agent, Team, Workflow } from '@agentium/core';
 
 // Swap any of 30+ providers with one line — zero rewrites
 const researcher = new Agent({
@@ -124,11 +124,11 @@ await team.run('Analyze Q4 data and draft a shareholder report'); // ✓
 
 <br/>
 
-[![Read the Docs](https://img.shields.io/badge/Read%20the%20Docs-docs.xhipai.com-6366f1?style=for-the-badge&logoColor=white)](https://docs.xhipai.com)
+[![Read the Docs](https://img.shields.io/badge/Read%20the%20Docs-docs.agentium.in-6366f1?style=for-the-badge&logoColor=white)](https://docs.agentium.in)
 &nbsp;
-[![GitHub Repo](https://img.shields.io/badge/View%20on%20GitHub-xhipment%2Fradar--os-181717?style=for-the-badge&logo=github)](https://github.com/xhipment/radar-os)
+[![Website](https://img.shields.io/badge/Website-www.agentium.in-6366f1?style=for-the-badge&logoColor=white)](https://www.agentium.in)
 &nbsp;
-[![npm](https://img.shields.io/badge/npm-%40radaros-CB3837?style=for-the-badge&logo=npm)](https://www.npmjs.com/org/radaros)
+[![npm](https://img.shields.io/badge/npm-%40agentium-CB3837?style=for-the-badge&logo=npm)](https://www.npmjs.com/org/agentium)
 
 </div>
 
@@ -235,7 +235,7 @@ Building in public — agent architectures, TypeScript internals, OSS deep dives
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akashsengar/)
 &nbsp;
-[![RadarOS](https://img.shields.io/badge/RadarOS-docs.xhipai.com-6366f1?style=for-the-badge)](https://docs.xhipai.com)
+[![Agentium](https://img.shields.io/badge/Agentium-www.agentium.in-6366f1?style=for-the-badge)](https://www.agentium.in)
 &nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-%40aakashsengar-181717?style=for-the-badge&logo=github)](https://github.com/aakashsengar)
 
